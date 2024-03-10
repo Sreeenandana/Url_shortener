@@ -7,9 +7,10 @@ Shortify is a lightweight and easy-to-use URL shortener that allows you to quick
 
 
 
-## Demo
 
-Insert gif or link to demo
+## Demo
+<img width="763" alt="Screenshot 2024-03-10 111217" src="https://github.com/Sreeenandana/Url_shortener/assets/103349864/4d38f858-d176-4084-85ad-43eae8da74a6">
+
 
 
 ## Features
